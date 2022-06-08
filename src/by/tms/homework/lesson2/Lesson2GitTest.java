@@ -1,4 +1,4 @@
-package by.tms.lesson2;
+package by.tms.homework.lesson2;
 
 public class Lesson2GitTest {
 

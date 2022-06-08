@@ -1,4 +1,4 @@
-package by.tms.lesson3;
+package by.tms.homework.lesson3;
 
 public class Lesson3GitDemo {
 
